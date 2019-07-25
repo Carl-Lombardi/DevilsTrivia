@@ -1,4 +1,4 @@
-# New Jersey Devils Trivia (Repo - ) (Site - )
+# New Jersey Devils Trivia (Repo - https://github.com/Carl-Lombardi/TriviaGame ) (Site - )
 This is a trivia game which tests knowledge of the New Jersey Devils. If it's happened on the ice or off since 1982 and it involves the Devils, this is fair game!
 
 ## Why the Devils?
