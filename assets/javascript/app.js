@@ -108,10 +108,15 @@ var game = {
     quiz.html("<h2>Here's Your game!</h2>");
     quiz.append("<h3>Correct Responses: " + this.right + "</h3>");
     quiz.append("<h3>Incorrect Responses: " + this.wrong + "</h3>");
+    quiz.append("<button id='restart'>Restart!</button>");
   }
 };
 
 $(document).on("click", "#start", function() {
+  game.start();
+});
+
+$(document).on("click", "#restart", function() {
   game.start();
 });
 
