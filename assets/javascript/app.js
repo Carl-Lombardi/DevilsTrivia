@@ -117,7 +117,7 @@ $(document).on("click", "#start", function() {
 });
 
 $(document).on("click", "#restart", function() {
-  game.start();
+ location.reload();
 });
 
 $(document).on("click", "#done", function() {
